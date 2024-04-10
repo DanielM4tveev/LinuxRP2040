@@ -1,0 +1,1 @@
+arduino-cli compile -b arduino:mbed_rp2040:pico -v C:\Users\Den4i\proj\linux_rp2040\Linux_Kernel_rc0_2040\

@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "command",
+            "name": "build pico",
+            "program": "pico_build.bat",
+
+        },
+
+    ]
+}
